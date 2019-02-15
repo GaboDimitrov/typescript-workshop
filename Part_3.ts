@@ -11,7 +11,7 @@ const newUser = new User()
 newUser.age // user.age
 newUser.name // Error
 newUser.getName() // user.name
-newUser.name // Error
+newUser.email // Error
 newUser.getEmail() // user.email
 
 // Task 2
